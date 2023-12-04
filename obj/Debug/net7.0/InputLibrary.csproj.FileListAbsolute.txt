@@ -1,0 +1,11 @@
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.AssemblyInfoInputs.cache
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.AssemblyInfo.cs
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.csproj.CoreCompileInputs.cache
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/bin/Debug/net7.0/InputLibrary.deps.json
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/bin/Debug/net7.0/InputLibrary.dll
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/bin/Debug/net7.0/InputLibrary.pdb
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.dll
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/refint/InputLibrary.dll
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/InputLibrary.pdb
+/Users/tymek/Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programming/InputLibrary/obj/Debug/net7.0/ref/InputLibrary.dll
